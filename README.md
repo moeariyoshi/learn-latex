@@ -9,12 +9,11 @@ To compile into PDF run `pdflatex yourfile.tex`
 
 ### Document Classes
 
-`\documentclass{article}` scientific journals, presentations, short reports, and documentation
-
-`\documentclass{report}` for longer reports containing several chapters, small books, and theses.
-`\documentclass{book}` for books
-`\documentclass{letter}` for letters
-`\documentclass{beamer}` for slideshows
-`\documentclass{proc}` for conference preceedings
-`\documentclass{minimal}` minimal class that only sets the page size and base font.
-`\documentclass{standalone}` standalone documents
+`\documentclass{article}` scientific journals, presentations, short reports, and documentation  
+`\documentclass{report}` for longer reports containing several chapters, small books, and theses  
+`\documentclass{book}` for books  
+`\documentclass{letter}` for letters   
+`\documentclass{beamer}` for slideshows   
+`\documentclass{proc}` for conference preceedings  
+`\documentclass{minimal}` minimal class that only sets the page size and base font  
+`\documentclass{standalone}` standalone documents  
